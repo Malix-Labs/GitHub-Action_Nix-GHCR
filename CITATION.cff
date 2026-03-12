@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 type: software
-title: "<TITLE>"
-abstract: "<DESCRIPTION>"
-repository-code: "https://github.com/Malix-Labs/REPOSITORY"
+title: "GitHub Action - Nix GHCR"
+abstract: "GitHub Action to push Nix Builds to GHCR"
+repository-code: "https://github.com/Malix-Labs/GitHub-Action_Nix-GHCR"
 license: AGPL-3.0-or-later
 authors:
   - alias: "Malix"
